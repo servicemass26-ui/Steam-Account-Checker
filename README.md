@@ -11,6 +11,10 @@
   <li>Single-line capture output format (OpenBullet-style) saved to <code>Success.txt</code>.</li>
 </ul>
 
+<center>
+<img width="2550" height="867" alt="Screenshot 2025-10-03 004128" src="https://github.com/user-attachments/assets/cbd46dbf-9193-42a2-94b0-55540ee1d5ef" />
+</center>
+
 <h2>Quickstart</h2>
 <pre><code>git clone YOUR_REPO
 cd repo
@@ -42,3 +46,4 @@ Builder.bat
   <li><code>user:pass@host:port</code> → converted to <code>http://user:pass@host:port</code></li>
   <li>Schemes allowed: <code>http://</code>, <code>https://</code>, <code>socks4://</code>, <code>socks5://</code></li>
 </ul>
+
